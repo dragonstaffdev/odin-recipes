@@ -1,1 +1,2 @@
 # odin-recipes
+Now I'm going to attempt my first ever project in my Odin's courses, my objective it to make a basic HTML index of my favorite recipes. I will practice what HTML knowledge I have so far gained, like creating ordered and unordered lists, adding images, linking sites, et cetera.
