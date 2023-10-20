@@ -11,7 +11,7 @@ body {
 }
 
 .chicken-title {
-
+    font-size: 24px;
 }
 
 .shrimp-title {
@@ -19,5 +19,9 @@ body {
 }
 
 .smash-title {
-    
+
+}
+
+.chicken-img {
+    border-radius: 35px;
 }
