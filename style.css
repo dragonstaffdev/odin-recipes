@@ -26,3 +26,7 @@ body {
 img {
     border-radius: 75px;
 }
+
+.RecipeTitle {
+    text-align: center;
+}
