@@ -8,6 +8,7 @@ body {
 #title {
     color: white;
     text-shadow: 1px 1px 1px black;
+    font-size: 48px;
 }
 
 .chicken-title {
@@ -15,13 +16,13 @@ body {
 }
 
 .shrimp-title {
-
+    font-size: 24px;
 }
 
 .smash-title {
-
+    font-size: 24px;
 }
 
-.chicken-img {
-    border-radius: 35px;
+img {
+    border-radius: 75px;
 }
